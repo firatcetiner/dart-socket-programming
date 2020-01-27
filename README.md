@@ -13,4 +13,4 @@ The PostgreSQL databases (3) are hold the neccessary information about Hotels an
 
 ## The Flow
 Below figure demonstrates the data flow between Client, Servers and Databases.
-![alt text]https://i.imgur.com/UP9D8BR.png
+![alt text](https://i.imgur.com/UP9D8BR.png)
